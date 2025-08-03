@@ -1,5 +1,6 @@
-#🎮 PUBG Website Template (Design Only)
-This is a PUBG-themed website front-end template built with HTML and CSS only. It’s perfect for showcasing UI designs for gaming websites, landing pages, or esports portfolios.
+# 🎮 PUBG Website Template (Design Only)
+
+### This is a PUBG-themed website front-end template built with HTML and CSS only. It’s perfect for showcasing UI designs for gaming websites, landing pages, or esports portfolios.
 
 ⚠️ Note: This is a static design template – no working JavaScript functionality is included.
 
@@ -16,3 +17,4 @@ Easy to customize for your own needs
 HTML5
 
 CSS3
+
