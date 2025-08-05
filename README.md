@@ -1,4 +1,4 @@
-# 🎮 BGMI Website Template (Design Only)
+# 🎮 Game Website Template (Design Only)
 
 ### This is a BGMI-themed website front-end template built with HTML and CSS only. It’s perfect for showcasing UI designs for gaming websites, landing pages, or esports portfolios.
 
@@ -17,5 +17,6 @@ Easy to customize for your own needs
 HTML5
 
 CSS3
+
 
 
